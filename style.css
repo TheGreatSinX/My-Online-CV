@@ -7,8 +7,9 @@
 
 html, body {
   height: 100%;
+  background-image: url('http://chok.c1.biz/wp-content/themes/inspiro/assets/images/StockSnap_M6D1GS9PSL.jpg');
+  background-position: left;
 }
-
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
