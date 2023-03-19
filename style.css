@@ -312,7 +312,7 @@ a {
   bottom: 0;
 }
 .section-wrapper .skill-percentage:nth-child(1)::before {
-  width: 65%;
+  width: 100%;
   -webkit-animation: skill_1 0.6s ease;
           animation: skill_1 0.6s ease;
 }
